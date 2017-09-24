@@ -31,3 +31,7 @@ Then take care of the following 2 examples.
 When we define a pointer to a pointer, the first pointer contains the address of the second pointer, which points to the location that contains the actual value. 
 When a target value is indirectly pointed to by a pointer to a pointer, accessing that value requires that the asterisk operator be applied twice. 
 [detailed version](https://www.tutorialspoint.com/cprogramming/c_pointer_to_pointer.htm). 
+
+### string manipulation functions. 
+strlen, strcmp, strcat, strcpy, strlwr, strupr. 
+gets, puts, 
