@@ -35,3 +35,5 @@ When a target value is indirectly pointed to by a pointer to a pointer, accessin
 ### string manipulation functions. 
 strlen, strcmp, strcat, strcpy, strlwr, strupr. 
 gets, puts, 
+char *strstr(const char *haystack, const char *needle). 
+finds the first occurrence of the substring needle in the string haystack. 
